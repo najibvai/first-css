@@ -1,0 +1,24 @@
+.header{
+    color: #54c413;
+    background-color: rgb(42, 133, 102);
+    background-image: url('marketing.jpg');
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    background-size: contain;
+
+}
+
+.blogs{
+    border-radius: 5px;
+    margin: 10px 10px;
+    border: 10px solid rebeccapurple;
+    box-shadow: 5px 5px 5px red;
+    padding: 5px;
+}
+h2{
+    font-size: medium;
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+}
